@@ -10,3 +10,4 @@ print(df.to_string())
 #Print data based on filtering
 print(df[df.Legendary == True].to_string())
 
+
